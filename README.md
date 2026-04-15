@@ -2,6 +2,12 @@
 
 ### AI | Data | Digital Transformation
 
+## 🏅 Certifications  
+
+**Snowflake SnowPro Certified**  
+
+[![Snowflake Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/3c05a894-a57b-49bc-afd4-ef842126fc43)](https://www.credential.net/3c05a894-a57b-49bc-afd4-ef842126fc43)
+
 I work at the intersection of **AI, data, and business transformation**, building solutions that drive real impact across global organizations.
 
 🌎 Experience collaborating across **US, Brazil, and Mexico**
