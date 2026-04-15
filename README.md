@@ -26,7 +26,7 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 * AI for Enterprise Applications
 * Performance & Transformation (PaT Lab)
 * ## 🏅 Certifications
-* 
+  
 *Snowflake SnowPro Certified**  
 
 [![Snowflake Certification](https://developerbadges.snowflake.com/3c05a894-a57b-49bc-afd4-ef842126fc43/image)](https://developerbadges.snowflake.com/3c05a894-a57b-49bc-afd4-ef842126fc43)
