@@ -29,7 +29,7 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 
 **Snowflake SnowPro Certified**  
 
-[![Snowflake Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/3c05a894-a57b-49bc-afd4-ef842126fc43)](https://www.credential.net/3c05a894-a57b-49bc-afd4-ef842126fc43)
+[![Snowflake Certification]([https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/3c05a894-a57b-49bc-afd4-ef842126fc43)](https://www.credential.net/3c05a894-a57b-49bc-afd4-ef842126fc43](https://developerbadges.snowflake.com/3c05a894-a57b-49bc-afd4-ef842126fc43#acc.ewThnbsa))
 
 ---
 
